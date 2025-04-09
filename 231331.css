@@ -1,0 +1,10 @@
+td{
+    width: 50vw;
+    border: 1px solid blue;
+    border-collapse:collapse ;
+    text-align: center;
+
+}
+a{
+   text-decoration: none;
+}
